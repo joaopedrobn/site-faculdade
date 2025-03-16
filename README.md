@@ -30,14 +30,6 @@ Este repositório contém o código-fonte do meu primeiro projeto desenvolvido d
 
 3. **Abra o arquivo `index.html` em seu navegador preferido.**
 
-## 📸 Capturas de Tela
-
-![Página Inicial](https://github.com/joaopedrobn/site-faculdade/raw/main/imagens/home.png)
-*Página Inicial do Site*
-
-![Seção de Jogos](https://github.com/joaopedrobn/site-faculdade/raw/main/imagens/jogos.png)
-*Seção de Jogos Favoritos*
-
 ## 📝 Observações
 
 Este projeto foi desenvolvido com o intuito de aplicar os conhecimentos iniciais adquiridos em HTML e CSS. Por ser meu primeiro site, o foco principal foi entender a estruturação de páginas web e a estilização básica.
